@@ -285,9 +285,6 @@
 
     "quote":"He who is not courageous enough to take risks will accomplish nothing in life.",
     "speaker":"Muhammad Ali"
-
-
-
   },
 
   {
@@ -324,13 +321,26 @@
   },
   {
     "quote": "If you think you can do a thing or think you can’t do a thing, you’re right.",
-     "speaker": "Henry Ford"
-
-
+    "speaker": "Henry Ford"
   },
   {
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
     "speaker":"Haruki Murakami"
-  }
-
+  },
+  {
+    "quote": "Arise! Awake! and stop not till the goal is reached",
+    "speaker": "Swami Vivekanand- Famous Indian Scholar and Monk"
+  },
+  {
+    "quote": "Those who do not know how to weep with their whole heart don't know how to laugh either.",
+    "speaker": "Golda Meir, Fourth Prime Minister of Israel"
+  },
+  {
+    "quote": "Start small and dream big!",
+    "speaker": "Robert Kiyosaki, Author-Rich Dad Poor Dad."
+  },
+  {
+    "quote": "Without your involvment you cant succeed. With your involvement you cant fail.",
+    "speaker": "A.P.J Abdul Kalam, Former Indian President"
+  } 
 ]
