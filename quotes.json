@@ -1,5 +1,4 @@
-[
-  {
+[{
     "quote": "Slowly I'm renewing my soul",
     "speaker": "Virginia Woolf"
   },
@@ -274,31 +273,25 @@
     "speaker": "Charles Darwin"
   },
   {
-  "quote" : "However difficult life may seem, there is always something you can do and succeed at.",
-  "speaker" : "Stephen Hawking"
+    "quote": "However difficult life may seem, there is always something you can do and succeed at.",
+    "speaker": "Stephen Hawking"
   },
   {
     "quote": "No valid plans for the future can be made by those who have no capacity for living now",
     "speaker": "Alan Watts"
   },
   {
-
-    "quote":"He who is not courageous enough to take risks will accomplish nothing in life.",
-    "speaker":"Muhammad Ali"
+    "quote": "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
+    "speaker": "David Leinweber"
   },
-
   {
-    "quote" : "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
-    "speaker" : "David Leinweber"
-  },
-  { 
-    "quote":"Happiness is when what you think, what you say, and what you do are in harmony",
-    "speaker":"Mahatma Gandhi"
+    "quote": "Happiness is when what you think, what you say, and what you do are in harmony",
+    "speaker": "Mahatma Gandhi"
   },
   {
 
-  "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
-  "speaker": "Kurt Cobain"
+    "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
+    "speaker": "Kurt Cobain"
   },
   {
     "quote": "Keep your friends close, your enemies even closer.",
@@ -342,5 +335,4 @@
   {
     "quote": "Without your involvment you cant succeed. With your involvement you cant fail.",
     "speaker": "A.P.J Abdul Kalam, Former Indian President"
-  } 
-]
+  }
